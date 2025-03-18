@@ -10,3 +10,4 @@ if ($nilai <= 100 && $nilai >= 90) {
 } else if ($nilai <= 69 && $nilai >= 0) {
     echo "$nilai = D";
 } else  echo "$nilai ";
+?>
